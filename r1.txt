@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 created r1 file
+=======
+welcome to r1 file
+>>>>>>> 8fb06801f571a6d963260a0b5cbab7ac56ac3b2e
